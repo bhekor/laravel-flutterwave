@@ -1,0 +1,32 @@
+{
+    "name": "bhekor/laravel-flutterwave",
+    "description": "Laravel package for flutterwave",
+    "type": "library",
+    "require": {
+        "php": ">=7.3",
+        "illuminate/support": ">=7.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bhekor\\LaravelFlutterwave\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ibidapo Adeolu",
+            "email": "adeoluibidapo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Bhekor\\LaravelFlutterwave\\FlutterwaveServiceProvider"
+            ],
+            "aliases": {
+                "Flutterwave": "Bhekor\\LaravelFlutterwave\\Facades\\Flutterwave"
+            }
+        }
+    }
+}
