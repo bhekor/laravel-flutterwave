@@ -6,10 +6,11 @@ use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Http;
 
 /**
- * Flutterwave's Rave payment laravel package
- * @author Oluwole Adebiyi - Flamez <flamekeed@gmail.com>
- * @version 3
+ * Flutterwave's payment laravel package
+ * @author Ibidapo Adeolu - Bhekor <adeoluibidapo@gmail.com>
+ * @version 1
  **/
+
 class Payments
 {
 

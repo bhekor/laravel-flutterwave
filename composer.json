@@ -2,6 +2,7 @@
     "name": "bhekor/laravel-flutterwave",
     "description": "Laravel package for flutterwave",
     "type": "library",
+    "keywords": ["flutterwave", "payment"],
     "require": {
         "php": ">=7.3",
         "illuminate/support": ">=7.0"
@@ -18,7 +19,6 @@
             "email": "adeoluibidapo@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "extra": {
         "laravel": {
             "providers": [
