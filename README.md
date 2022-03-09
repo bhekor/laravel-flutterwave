@@ -51,7 +51,7 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 <!-- [ico-code-quality]: https://scrutinizer-ci.com/g/toondaey/laravelrave/badges/quality-score.png?b=master -->
 <!-- [ico-code-intelligence]: https://scrutinizer-ci.com/g/toondaey/laravelrave/badges/code-intelligence.svg?b=master -->
 <!-- [ico-coverage]: https://scrutinizer-ci.com/g/toondaey/laravelrave/badges/coverage.png?b=master -->
-<!-- [ico-downloads]: https://img.shields.io/packagist/dt/kingflamez/laravelrave.svg?style=flat-square -->
+[ico-downloads]: https://img.shields.io/packagist/dt/bhekor/laravel-flutterwave?style=for-the-badge
 ![Packagist Downloads](https://img.shields.io/packagist/dt/bhekor/laravel-flutterwave?style=for-the-badge)
 
 <!-- [link-packagist]: https://packagist.org/packages/bhekor/laravelflutterwave
