@@ -44,7 +44,7 @@ I will be working on this next
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-<!-- [ico-version]: https://img.shields.io/packagist/v/kingflamez/laravelrave.svg?style=flat-square -->
+[ico-version]: https://img.shields.io/packagist/v/kingflamez/laravelrave.svg?style=flat-square
 <!-- [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square -->
 <!-- [ico-travis]: https://travis-ci.org/toondaey/laravelrave.svg?branch=master -->
 <!-- [ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/kingflamez/laravelrave.svg?style=flat-square -->
@@ -52,8 +52,9 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 <!-- [ico-code-intelligence]: https://scrutinizer-ci.com/g/toondaey/laravelrave/badges/code-intelligence.svg?b=master -->
 <!-- [ico-coverage]: https://scrutinizer-ci.com/g/toondaey/laravelrave/badges/coverage.png?b=master -->
 <!-- [ico-downloads]: https://img.shields.io/packagist/dt/kingflamez/laravelrave.svg?style=flat-square -->
+![Packagist Downloads](https://img.shields.io/packagist/dt/bhekor/laravel-flutterwave?style=for-the-badge)
 
-[link-packagist]: https://packagist.org/packages/bhekor/laravelflutterwave
+<!-- [link-packagist]: https://packagist.org/packages/bhekor/laravelflutterwave
 [link-travis]: https://travis-ci.org/toondaey/laravelflutterwave
 [link-scrutinizer]: https://scrutinizer-ci.com/g/bhekor/laravelflutterwave/code-structure
 [link-code-quality]: https://scrutinizer-ci.com/g/toondaey/laravelflutterwave/?branch=master
@@ -61,6 +62,6 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [link-author]: https://github.com/bhekor
 [link-contributors]: ../../contributors
 [link-coverage]: https://scrutinizer-ci.com/g/toondaey/laravelflutterwave/?branch=master
-[link-code-intelligence]: https://scrutinizer-ci.com/code-intelligence
+[link-code-intelligence]: https://scrutinizer-ci.com/code-intelligence -->
 
 <!-- ![Packagist Downloads](https://img.shields.io/packagist/dt/bhekor/laravel-flutterwave?style=for-the-badge) -->
