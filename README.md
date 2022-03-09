@@ -14,11 +14,11 @@
 
  A friendly documentation can be found [here](https://laravelrave.netlify.com/)
 
-
+<!-- 
 ## Credits
 
 - [Oluwole Adebiyi (Flamez)][link-author]
-- [Emmanuel Okeke](https://github.com/emmanix2002)
+- [Emmanuel Okeke](https://github.com/emmanix2002) -->
 
 ## Contributing
 Please feel free to fork this package and contribute by submitting a pull request to enhance the functionalities. I will appreciate that a lot. Also please add your name to the credits.
@@ -43,8 +43,8 @@ I will be working on this next
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
-
-[ico-version]: https://img.shields.io/packagist/v/kingflamez/laravelrave.svg?style=flat-square
+![Packagist Downloads](https://img.shields.io/packagist/dt/bhekor/laravel-flutterwave?style=for-the-badge)
+<!-- [ico-version]: https://img.shields.io/packagist/v/kingflamez/laravelrave.svg?style=flat-square -->
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
 <!-- [ico-travis]: https://travis-ci.org/toondaey/laravelrave.svg?branch=master -->
 <!-- [ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/kingflamez/laravelrave.svg?style=flat-square -->
@@ -53,12 +53,12 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 <!-- [ico-coverage]: https://scrutinizer-ci.com/g/toondaey/laravelrave/badges/coverage.png?b=master -->
 [ico-downloads]: https://img.shields.io/packagist/dt/kingflamez/laravelrave.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/kingflamez/laravelrave
-[link-travis]: https://travis-ci.org/toondaey/laravelrave
-[link-scrutinizer]: https://scrutinizer-ci.com/g/kingflamez/laravelrave/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/toondaey/laravelrave/?branch=master
-[link-downloads]: https://packagist.org/packages/kingflamez/laravelrave
-[link-author]: https://github.com/kingflamez
+[link-packagist]: https://packagist.org/packages/bhekor/laravelflutterwave
+[link-travis]: https://travis-ci.org/toondaey/laravelflutterwave
+[link-scrutinizer]: https://scrutinizer-ci.com/g/bhekor/laravelflutterwave/code-structure
+[link-code-quality]: https://scrutinizer-ci.com/g/toondaey/laravelflutterwave/?branch=master
+[link-downloads]: https://packagist.org/packages/bhekor/laravelflutterwave
+[link-author]: https://github.com/bhekor
 [link-contributors]: ../../contributors
-[link-coverage]: https://scrutinizer-ci.com/g/toondaey/laravelrave/?branch=master
+[link-coverage]: https://scrutinizer-ci.com/g/toondaey/laravelflutterwave/?branch=master
 [link-code-intelligence]: https://scrutinizer-ci.com/code-intelligence
