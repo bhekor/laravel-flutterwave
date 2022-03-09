@@ -54,7 +54,7 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [ico-downloads]: https://img.shields.io/packagist/dt/bhekor/laravel-flutterwave?style=for-the-badge
 <!-- ![Packagist Downloads](https://img.shields.io/packagist/dt/bhekor/laravel-flutterwave?style=for-the-badge) -->
 
-<!-- [link-packagist]: https://packagist.org/packages/bhekor/laravelflutterwave
+[link-packagist]: https://packagist.org/packages/bhekor/laravelflutterwave
 [link-travis]: https://travis-ci.org/toondaey/laravelflutterwave
 [link-scrutinizer]: https://scrutinizer-ci.com/g/bhekor/laravelflutterwave/code-structure
 [link-code-quality]: https://scrutinizer-ci.com/g/toondaey/laravelflutterwave/?branch=master
@@ -62,6 +62,6 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [link-author]: https://github.com/bhekor
 [link-contributors]: ../../contributors
 [link-coverage]: https://scrutinizer-ci.com/g/toondaey/laravelflutterwave/?branch=master
-[link-code-intelligence]: https://scrutinizer-ci.com/code-intelligence -->
+[link-code-intelligence]: https://scrutinizer-ci.com/code-intelligence
 
 <!-- ![Packagist Downloads](https://img.shields.io/packagist/dt/bhekor/laravel-flutterwave?style=for-the-badge) -->
