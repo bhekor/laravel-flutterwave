@@ -2,7 +2,7 @@
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
-![Total Downloads][ico-downloads][link-downloads]
+[![Total Downloads][ico-downloads]][link-downloads]
 
 
 > Implement Flutterwave Rave payment gateway easily with Laravel
@@ -45,16 +45,14 @@ I will be working on this next
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
 [ico-version]: https://img.shields.io/packagist/v/bhekor/laravel-flutterwave?style=for-the-badge
-
 [ico-license]: https://img.shields.io/github/license/bhekor/laravel-flutterwave?style=for-the-badge
+[ico-downloads]: https://img.shields.io/packagist/dt/bhekor/laravel-flutterwave?style=for-the-badge
 
 [ico-travis]: https://travis-ci.org/toondaey/laravelrave.svg?branch=master
 [ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/kingflamez/laravelrave.svg?style=flat-square
 [ico-code-quality]: https://scrutinizer-ci.com/g/toondaey/laravelrave/badges/quality-score.png?b=master
 [ico-code-intelligence]: https://sscrutinizer-ci.com/g/toondaey/laravelrave/badges/code-intelligence.svg?b=master
 [ico-coverage]: https://scrutinizesr-ci.com/g/toondaey/laravelrave/badges/coverage.png?b=master
-
-[ico-downloads]: https://img.shields.io/packagist/dt/bhekor/laravel-flutterwave?style=for-the-badge
 
 [link-packagist]: https://packagist.org/packages/bhekor/laravelflutterwave
 [link-travis]: https://travis-ci.org/toondaey/laravelflutterwave
@@ -65,5 +63,3 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [link-contributors]: ../../contributors
 [link-coverage]: https://scrutinizer-ci.com/g/toondaey/laravelflutterwave/?branch=master
 [link-code-intelligence]: https://scrutinizer-ci.com/code-intelligence
-
-<!-- ![Packagist Downloads](https://img.shields.io/packagist/dt/bhekor/laravel-flutterwave?style=for-the-badge) -->
