@@ -1,4 +1,4 @@
-# Flutterwave Package for Laravel 7^ above
+# Flutterwave Package for Laravel 7+ above
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
