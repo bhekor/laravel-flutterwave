@@ -2,7 +2,7 @@
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
-[![Total Downloads][ico-downloads]][link-downloads]
+![Total Downloads][ico-downloads][link-downloads]
 
 
 > Implement Flutterwave Rave payment gateway easily with Laravel
