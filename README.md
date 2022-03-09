@@ -47,13 +47,14 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [ico-version]: https://img.shields.io/packagist/v/bhekor/laravel-flutterwave?style=for-the-badge
 
 [ico-license]: https://img.shields.io/github/license/bhekor/laravel-flutterwave?style=for-the-badge
-<!-- [ico-travis]: https://travis-ci.org/toondaey/laravelrave.svg?branch=master -->
-<!-- [ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/kingflamez/laravelrave.svg?style=flat-square -->
-<!-- [ico-code-quality]: https://scrutinizer-ci.com/g/toondaey/laravelrave/badges/quality-score.png?b=master -->
-<!-- [ico-code-intelligence]: https://scrutinizer-ci.com/g/toondaey/laravelrave/badges/code-intelligence.svg?b=master -->
-<!-- [ico-coverage]: https://scrutinizer-ci.com/g/toondaey/laravelrave/badges/coverage.png?b=master -->
+
+[ico-travis]: https://travis-ci.org/toondaey/laravelrave.svg?branch=master
+[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/kingflamez/laravelrave.svg?style=flat-square
+[ico-code-quality]: https://scrutinizer-ci.com/g/toondaey/laravelrave/badges/quality-score.png?b=master
+[ico-code-intelligence]: https://sscrutinizer-ci.com/g/toondaey/laravelrave/badges/code-intelligence.svg?b=master
+[ico-coverage]: https://scrutinizesr-ci.com/g/toondaey/laravelrave/badges/coverage.png?b=master
+
 [ico-downloads]: https://img.shields.io/packagist/dt/bhekor/laravel-flutterwave?style=for-the-badge
-<!-- ![Packagist Downloads](https://img.shields.io/packagist/dt/bhekor/laravel-flutterwave?style=for-the-badge) -->
 
 [link-packagist]: https://packagist.org/packages/bhekor/laravelflutterwave
 [link-travis]: https://travis-ci.org/toondaey/laravelflutterwave
