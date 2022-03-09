@@ -44,7 +44,7 @@ I will be working on this next
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: ![Packagist Version](https://img.shields.io/packagist/v/bhekor/laravel-flutterwave?style=for-the-badge)
+[ico-version]: https://img.shields.io/packagist/v/bhekor/laravel-flutterwave?style=for-the-badge
 
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
 <!-- [ico-travis]: https://travis-ci.org/toondaey/laravelrave.svg?branch=master -->
